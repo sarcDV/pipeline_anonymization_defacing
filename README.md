@@ -15,6 +15,8 @@ It contains a series of python and bash scripts:
  4) bash convert_to_niigz.sh "$newID"
 
  5) bash deface_new.sh "$newID" 
+ 
+ 6) rm -rf "$inputpatient"
 
 
 ## step 1:
