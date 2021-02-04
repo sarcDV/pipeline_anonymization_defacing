@@ -1,6 +1,3 @@
-# Alex Weston
-# Digital Innovation Lab, Mayo Clinic
-
 import os, sys
 import pydicom # pydicom is using the gdcm package for decompression
 
