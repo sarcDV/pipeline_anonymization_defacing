@@ -6,17 +6,17 @@ It takes two arguments as input:
 
 It contains a series of python and bash scripts:
 
-# 1) python anonymize_newid.py "$inputpatient" "$newID" "$newID"
+ 1) python anonymize_newid.py "$inputpatient" "$newID" "$newID"
 
-# 2) bash decompress_dicom.sh "$inputpatient"
+ 2) bash decompress_dicom.sh "$inputpatient"
 
-# 3) python sort_dicom_new.py "$inputpatient" "$newID"/
+ 3) python sort_dicom_new.py "$inputpatient" "$newID"/
 
-# 4) bash convert_to_niigz.sh "$newID"
+ 4) bash convert_to_niigz.sh "$newID"
 
-# 5) bash deface_new.sh "$newID" 
+ 5) bash deface_new.sh "$newID" 
 
-# 
+
 ## step 1:
 
 
