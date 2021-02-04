@@ -52,4 +52,4 @@ bash deface_new.sh
 
 ## step 6
 
-remove/delete the original file
+remove/delete the original folder
